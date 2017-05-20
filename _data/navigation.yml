@@ -9,5 +9,7 @@ main:
 #  - title: "Blog Posts"
 #    url: /year-archive/
     
-  - title: "CV"
-    url: https://movingtoweb.githib.io/
+  - title: "Resume"
+    url: https://movingtoweb.github.io/
+  - title: "Blog"
+    url: https://soleilfils.wordpress.com/
