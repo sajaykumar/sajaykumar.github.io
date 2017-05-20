@@ -1,15 +1,14 @@
 ---
-title: "Paper Title Number 1"
+title: "Enhancing Portable Environment using Cloud and Grid"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+permalink: /publication/2009-05-15-cloud-and-grid
+excerpt: 'This paper is about Cloud and Grid'
+date: 2009-05-15
+venue: '2009 International Conference on Signal Processing Systems, Singapore.'
+paperurl: 'http://ieeexplore.ieee.org/document/5166884/'
+citation: 'Ajay Kumar S (2009). &quot;Enhancing Portable Environment using Cloud and Grid&quot; <i>IEEE Publication</i>. 1(1).'
 ---
-This paper is about the number 1. The number 2 is left for future work.
+This paper “Enhancing Portable Environment using Cloud and Grid” aims at providing the users with the most easy and the efficient way of using an OS, which is stored in a Server and accessing it from anywhere (at Office or home). The only thing you need to do is that you should have a system with minimum configuration with an internet connection and having a browser for accessing the OS present in the Server. In this paper we are going to introduce the Web OS – Moving OS to the Web concept using Cloud Computing and Grid Computing. This can be done by storing the OS in a Server and accessing the OS via browsers in the other systems that are connected to the internet.      Cloud Computing is the latest buzz in the IT world, which provides the use of Software as a Service , example Google docs, where in we have an in-built Word processor, Power point ,etc. In the same way in our Web OS we will be using the same concept of Software as a Service which has a Fabulous advantage, which is, we can install a New Software in one server and can access the software from other systems. Other examples of applications which use Cloud Computing are Yahoo Calendar, YouTube, Blogger, etc.      In order to make the concept of Cloud Computing more efficient and reliable, we are going to include Grid Computing for providing much more performance for the systems which access the WebOS. This is done since more users login at the same time and the Server might not be able to provide the equal performance to all the systems, so when we add Grid Computing by combining other systems to the server we can achieve the performance by getting the performance from the systems that are connected to the server and providing them to the Systems that are accessing the Web OS.      The Advantages of Web OS are it runs on any Internet enabled computer or device. This is important for mobile workers or people who don’t have their own computers and must work out of Internet cafes, libraries, or schools. Also, Web OS users can work, log out, and then log in later from a different computer.
+[Download paper here](http://ieeexplore.ieee.org/document/5166884/)
 
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
-
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
+Recommended citation: Ajay Kumar S (2009). "Enhancing Portable Environment using Cloud and Grid" <i>IEEE Publication</i>. 1(1).
